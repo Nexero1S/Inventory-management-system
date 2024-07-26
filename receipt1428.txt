@@ -1,0 +1,11 @@
+EVIL INCORPORATIONS LAPTOPS:  
+receipt_numeber:  1428
+Distributer Name:  pranish
+Phone:  98522
+name of laptop:  XPS
+brand of laptop:   Dell
+total amount without VAT:  5928
+13% vat of total amount:  770.64
+total amount with vat:  6698.64
+date of purchase:  2023-07-27
+time of purchase:  06:23:31

@@ -1,0 +1,11 @@
+EVIL INCORPORATIONS LAPTOPS:  
+receipt_numeber:  634
+Distributer Name:  1
+Phone:  1
+name of laptop:  Razer Blade
+brand of laptop:   Razer
+total amount without VAT:  2000
+13% vat of total amount:  260.0
+total amount with vat:  2260.0
+date of purchase:  2023-07-27
+time of purchase:  07:39:35

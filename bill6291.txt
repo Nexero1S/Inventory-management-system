@@ -1,0 +1,9 @@
+bill_number:  6291
+Customers Name:  Pranish
+name of laptop:  Razer Blade
+brand of laptop:   Razer
+Number of items:  2
+date of purchase:  2023-07-27
+time of purchase:  11:18:56
+total amount without shipping cost:  4000
+total cost with shipping cost:  4000

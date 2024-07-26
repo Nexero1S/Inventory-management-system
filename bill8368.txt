@@ -1,0 +1,9 @@
+bill_number:  8368
+Customers Name:  P
+name of laptop:  XPS
+brand of laptop:   Dell
+Number of items:  2
+date of purchase:  2023-07-27
+time of purchase:  07:39:59
+total amount without shipping cost:  3952
+total cost with shipping cost:  3952

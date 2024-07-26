@@ -1,0 +1,9 @@
+bill_number:  9365
+Customers Name:  1
+name of laptop:  Razer Blade
+brand of laptop:   Razer
+Number of items:  3
+date of purchase:  2023-07-28
+time of purchase:  12:44:22
+total amount without shipping cost:  6000
+total cost with shipping cost:  6000

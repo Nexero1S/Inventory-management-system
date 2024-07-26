@@ -1,0 +1,9 @@
+bill_number:  9567
+Customers Name:  pranish
+name of laptop:  Alienware
+brand of laptop:   Alienware
+Number of items:  4
+date of purchase:  2023-07-27
+time of purchase:  08:55:46
+total amount without shipping cost:  7912
+total cost with shipping cost:  7912

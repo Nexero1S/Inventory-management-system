@@ -1,0 +1,9 @@
+bill_number:  2570
+Customers Name:  Pranish
+name of laptop:  XPS
+brand of laptop:   Dell
+Number of items:  3
+date of purchase:  2023-07-27
+time of purchase:  07:51:13
+total amount without shipping cost:  5928
+total cost with shipping cost:  5928

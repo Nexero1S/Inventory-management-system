@@ -1,0 +1,11 @@
+EVIL INCORPORATIONS LAPTOPS:  
+receipt_numeber:  9052
+Distributer Name:  Pranish
+Phone:  9841
+name of laptop:  Razer Blade
+brand of laptop:   Razer
+total amount without VAT:  4000
+13% vat of total amount:  520.0
+total amount with vat:  4520.0
+date of purchase:  2023-07-27
+time of purchase:  03:54:32
